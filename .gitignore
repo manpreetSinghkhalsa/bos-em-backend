@@ -17,3 +17,4 @@
 
 # ignore database YAMLS
 config/database.yml
+.idea/*/*

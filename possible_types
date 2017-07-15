@@ -1,0 +1,8 @@
+textfield
+textbox
+checkbox
+select box (Dropdown)
+datetime
+time
+
+[{label: "Name", type: 1, is_required: 1}, ]
